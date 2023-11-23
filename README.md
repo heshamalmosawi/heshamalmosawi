@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a dedicated Computer Science student studying in the University of Bahrain and aspiring full stack developer currently training in [Reboot](https://learn.reboot01.com). 
+Here, I showcase side projects where I explore and experiment with my newfound interest in machine learning.
+
 <!--
 **heshamalmosawi/heshamalmosawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
