@@ -1,8 +1,8 @@
 # Hesham Al-Mosawi
 ### Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20px">
-I'm a dedicated Computer Science student studying in the University of Bahrain and aspiring full stack developer currently training in [Reboot](https://learn.reboot01.com). 
+I'm a full stack developer with the goal of leaving a lasting impression through my work and contributions.
 
-Here, I showcase side projects where I explore and experiment with my interest in software development.
+Here, I showcase some side projects where I explore and experiment with my interest in software development.
 
 ## Skills
 
